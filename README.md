@@ -1,2 +1,3 @@
-# JS-Basics
-JS Basics and Essentials
+The Programming Basics course provides initial programming skills required for all technology majors at Software University. This includes writing basic level coding skills, working with IDEs, using variables and data, operators and expressions, working with the console (reading input and printing results), using conditional constructs (if, if-else) and loops (for, while, do-while).
+
+In the course "JS Essentials" you will learn the basic syntax of JavaScript. Data types, operators, expressions, conditional constructs, cycles, and function studies are studied. You will get acquainted with the DOM tree and start working with JavaScript in your browser. The course is highly practice-oriented, with an enormous number of classroom exercises and practical exams. All exercises and exams are evaluated automatically with the online Judge system. The assessment in the course is based on the passed home and practical exam.
